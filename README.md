@@ -39,8 +39,10 @@
 
 ### 🕸️ Let's Connect
 
-[![Facebook](https://www.facebook.com/dangkhoa.trac)
-[![Instagram](https://www.instagram.com/khoatrxc)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/dangkhoa.trac)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/khoatrxc)
+
 
 ---
 
