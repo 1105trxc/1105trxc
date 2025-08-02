@@ -30,8 +30,8 @@
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=trackhoa&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trackhoa&layout=compact&theme=tokyonight" height="160px"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1105trxc&layout=compact&theme=tokyonight" height="160px"/>
+
 </p>
 
 
