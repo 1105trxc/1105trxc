@@ -2,7 +2,10 @@
 <h3 align="center">🚀 A IT student </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Cloud+Computing+Enthusiast;Love+to+code+%26+solve+problems" alt="Typing SVG" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2AA889&center=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub" />
+</p>
+
 </p>
 
 ---
