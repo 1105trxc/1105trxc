@@ -35,7 +35,7 @@
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1105trxc&layout=compact&theme=tokyonight" height="160px"/>
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1105trxc&show_icons=true&theme=transparent)
 
 
 </p>
