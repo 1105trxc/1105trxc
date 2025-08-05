@@ -35,6 +35,9 @@
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1105trxc&layout=compact&theme=tokyonight" height="160px"/>
 
+   <img width="533" height="223" alt="image" src="https://github.com/user-attachments/assets/43954e1e-bd95-4b24-955e-15a36cdcc2cc" />
+
+
 </p>
 
 
